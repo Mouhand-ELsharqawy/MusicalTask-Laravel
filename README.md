@@ -17,5 +17,5 @@ Musical is a project created as a backend api project built in laravel framework
 2- write in visual cli "php artisan migrate --seed" for migrate database and create data.
 3- just look at routes in the api.php in routes folder.
 4- deal with the different functions.
-# any notes 
+# notes 
 1- when you enter date in any table exception shows table check if it exist in shows table because the relations between models
